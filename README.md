@@ -588,39 +588,6 @@ without changing the overall application workflow.
 
 ---
 
-## 🖼️ Screenshots
-
-### Home Page
-
-![EcoCollect Home](screenshots/home.png)
-
-### Request a Pickup
-
-![Request Pickup](screenshots/request-pickup.png)
-
-### Request Confirmation
-
-![Confirmation](screenshots/confirmation.png)
-
-### Request Tracking
-
-![Tracking](screenshots/tracking.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Request Management
-
-![Request Management](screenshots/admin-requests.png)
-
-### Analytics
-
-![Analytics](screenshots/analytics.png)
-
-> Replace the screenshot paths above with the exact screenshot filenames if your existing files use different names.
-
----
 
 ## 🚀 Local Setup
 
@@ -634,7 +601,7 @@ without changing the overall application workflow.
 ### Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/EcoCollect.git
+git clone https://github.com/khadija1407/EcoCollect.git
 cd EcoCollect
 ```
 
