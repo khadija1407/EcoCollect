@@ -484,12 +484,13 @@ Add project screenshots here after final UI review.
 Recommended screenshots:
 
 1. Home
-2. Request a Pickup
-3. Request Confirmation
-4. Request Tracking
-5. Admin Dashboard
-6. Request Management
-7. Analytics
+   ![App Screenshot](Home.png)
+3. Request a Pickup
+4. Request Confirmation
+5. Request Tracking
+6. Admin Dashboard
+7. Request Management
+8. Analytics
 
 ---
 
