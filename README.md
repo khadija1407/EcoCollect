@@ -712,31 +712,6 @@ These features are intentionally outside the scope of the current hackathon MVP.
 
 ---
 
-## 📌 Hackathon Scope
-
-EcoCollect is a **software-only MVP** focused on the core waste collection workflow required by the challenge.
-
-### Covered Requirements
-
-* ✅ Waste Category Selection
-* ✅ Pickup Location
-* ✅ Pickup Request
-* ✅ Pickup Scheduling
-* ✅ Request Status
-* ✅ Admin Dashboard
-* ✅ Collection Statistics
-* ✅ Request Search & Filtering
-* ✅ Pickup History
-* ✅ Responsive Web Interface
-* ✅ Automated Backend Testing
-* ✅ Docker Deployment Configuration
-* ✅ Google Cloud Run Readiness
-* ✅ Public GitHub Repository
-
-The project intentionally focuses on a complete and usable MVP rather than adding unnecessary complexity.
-
----
-
 ## 👥 Project
 
 **EcoCollect**
@@ -745,8 +720,5 @@ A student-built civic-tech solution for organized and responsible waste collecti
 
 ---
 
-## 📄 License
-
-This project was developed for educational and hackathon purposes.
 
 
