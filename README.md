@@ -251,7 +251,7 @@ Make sure you have installed:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/EcoCollect.git
+git clone https://github.com/khadija1407/EcoCollect.git
 cd EcoCollect
 ```
 
